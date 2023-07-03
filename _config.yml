@@ -1,9 +1,9 @@
 # site settings
 
 title: Samaneh Davoudi
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+description: Computational Biologist
+taglong: 
+tagshort: 
 url: https://cvless.netlify.app
 baseurl: ""
 permalink: pretty
