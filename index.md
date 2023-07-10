@@ -4,8 +4,7 @@ title: Home
 ---
 
 # About
-[Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. 
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [publication list](https://scholar.google.com/citations?user=gX_JMSoAAAAJ&hl=en), [?](https://jekyllrb.com/docs/posts/#tags-and-categories).
+I am a computational biologist at Ghent University. My resarch area is focused on simulating biologoical processes using (coarse-grained) molecular dynamics method. Using python programming, I do the analyisis of the results. [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. To can also see my [publication list](https://scholar.google.com/citations?user=gX_JMSoAAAAJ&hl=en), [?](https://jekyllrb.com/docs/posts/#tags-and-categories).
 
 
