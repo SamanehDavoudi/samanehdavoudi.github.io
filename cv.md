@@ -9,7 +9,7 @@ title: CV
 
 ## Education
 
-2019-now      PhD Student, Biomedical Engineering,
+### 2019-now  PhD Student, Biomedical Engineering,
               BioMMeda group, Department of Electronics and Information Systems, Ghent University , Belgium
               Project title : Calculating the permeability of lipid membranes
               
