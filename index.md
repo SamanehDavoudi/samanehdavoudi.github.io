@@ -5,6 +5,6 @@ title: Home
 
 # About
 
-I am a computational biologist at Ghent University. My resarch area is focused on simulating biologoical processes applying (coarse-grained) molecular dynamics. Using python programming, I analyize the results. [Click here](/cv) to see my full CV, and [here](/cv.pdf) to download a pdf version. You can also see my [publication list](https://scholar.google.com/citations?user=gX_JMSoAAAAJ&hl=en), [?](https://jekyllrb.com/docs/posts/#tags-and-categories).
+I am a computational biologist at Ghent University. My research area is focused on simulating biologoical processes applying (coarse-grained) molecular dynamics. Using python programming, I analyze the results. [Click here](/cv) to see my full CV, and [here](/cv.pdf) to download a pdf version. You can also see my [publication list](https://scholar.google.com/citations?user=gX_JMSoAAAAJ&hl=en), [?](https://jekyllrb.com/docs/posts/#tags-and-categories).
 
 
