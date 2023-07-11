@@ -48,6 +48,10 @@ title: CV
 2012-2013     R&D expert, Science and Technology Park of of Tehran,
               Arian Setak Andish (ASa: HSE Consultant), Tehran, Iran
 
+## Publication
+
+https://scholar.google.com/citations?user=gX_JMSoAAAAJ&hl=en
+
 ## Honors and awards
 
 2022          Being awarded for my research work and poster presentation with the ‘Britton Chance Award’ in ISOTT conference being held in Switzerland, Ascona on 18th to 
