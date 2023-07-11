@@ -7,15 +7,10 @@ title: CV
 
 {% include contact.html %}
 
-## Section
+## About me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am a computational biologist specializing in biomolecular simulations, particularly using the coarse-grained molecular dynamics approach. My expertise lies in investigating the interactions between membrane proteins and lipid membranes. However, my main focus in recent years has been on calculating the permeability of drugs across both flat and curved lipid membranes.
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+### ?
 
-### Subsection
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
