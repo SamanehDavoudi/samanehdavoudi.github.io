@@ -18,13 +18,13 @@ title: CV
               Project title : Molecular dynamics simulation of plasma membrane Ca2+- ATPase (PMCA) 
               interacting with DPPC lipid bilayer in an aqueous environment with GROMACS	
               
-2005-2009	    BSC Student, Chemical Engineering – Food Industries,
-		          Chemical Engineering Department, AmirKabir University of Technology, Tehran, Iran
-		          Project title : Edible oil industry research
+2005-2009     BSC Student, Chemical Engineering – Food Industries,
+	      Chemical Engineering Department, AmirKabir University of Technology, Tehran, Iran
+	      Project title : Edible oil industry research
             
 ## Academic experiences
 
-2023(June)	  Research visit, Molecular dynamics group (Prof. Siewert J. Marrink)
+2023(June)    Research visit, Molecular dynamics group (Prof. Siewert J. Marrink)
               Coarse-grained oxygen forcefield parametrization 
               Groningen University, Groningen, The Netherlands
 
@@ -42,10 +42,10 @@ title: CV
 
 ## Industrial experiences
 
-2013-2018    	R&D expert, Saman Faraz Gheshm Co.
+2013-2018     R&D expert, Saman Faraz Gheshm Co.
               (Petrochemical materials’s export and import), Tehran, Iran
               
-2012-2013	    R&D expert, Science and Technology Park of of Tehran,
+2012-2013     R&D expert, Science and Technology Park of of Tehran,
               Arian Setak Andish (ASa: HSE Consultant), Tehran, Iran
 
 ## Honors and awards
@@ -58,7 +58,7 @@ title: CV
 
 ## Workshops
 
-2021	        “Martini 3.0” online workshop, held by University of Groningen, 1st – 3rd of September, 2021 
+2021	      “Martini 3.0” online workshop, held by University of Groningen, 1st – 3rd of September, 2021 
 
 2018          “A simple acquaintance with downstream process in pharmaceutical industry”   workshop, held by CinnaGen company, Tehran, Iran, 1st and 2nd of March, 2018
 
@@ -71,7 +71,7 @@ Communication: English, Persian, Dutch (limited proficiency)
 
 ## Hobbies
 
-	            Weightlifting with an experience as:
+Weightlifting with an experience as:
 2018-2019     “Fitness coach” at Rezaei-Majd wrestling academy, Tehran, Iran 
 
 ## References
