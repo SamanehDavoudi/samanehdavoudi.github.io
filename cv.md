@@ -71,7 +71,7 @@ Communication: English, Persian, Dutch (limited proficiency)
 
 ## Hobbies
 
-Weightlifting with an experience as:
+Weightlifting with an experience as,
 2018-2019     “Fitness coach” at Rezaei-Majd wrestling academy, Tehran, Iran 
 
 ## References
