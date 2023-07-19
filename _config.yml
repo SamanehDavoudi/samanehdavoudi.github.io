@@ -1,9 +1,9 @@
 # site settings
 
 title: Samaneh Davoudi
-description: Computational Biologist
-taglong: Computational Biologist
-tagshort: Computational Biologist
+description: Molecular Modeller
+taglong: Molecular Modeller
+tagshort: Molecular Modeller
 url: https://cvless.netlify.app
 baseurl: ""
 permalink: pretty
