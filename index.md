@@ -5,6 +5,6 @@ title: Home
 
 # About
 
-I am a molecular modeler at Ghent University. My research area is focused on simulating biologoical processes applying (coarse-grained) molecular dynamics. Using python programming, I analyze the results. You can see some of these codes in my ["Membrane_Analysis"]([https://scholar.google.com/citations?user=gX_JMSoAAAAJ&hl=en](https://github.com/SamanehDavoudi/Membrane_Analysis)) repository. [Click here](/cv.pdf) to download my CV. You can also see my publication list [here](https://scholar.google.com/citations?user=gX_JMSoAAAAJ&hl=en).
+I am a Molecular Modeler, specialized in simulating biological processes using (coarse-grained) molecular dynamics. My research involves the application of Python programming to analyze simulation results. You can find some of the Python codes I've developed for this purpose in my ["here"]([https://scholar.google.com/citations?user=gX_JMSoAAAAJ&hl=en](https://github.com/SamanehDavoudi/Membrane_Analysis)).
 
-
+If you are interested in knowing more about my academic background and research contributions, please feel free to download my [CV](/cv.pdf). Additionally, you can access the list of my publications by clicking [here](https://scholar.google.com/citations?user=gX_JMSoAAAAJ&hl=en).
